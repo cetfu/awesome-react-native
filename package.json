@@ -1,0 +1,8 @@
+{
+  "name": "awesome-react-native",
+  "version": "0.0.1",
+  "description": "React Native Template",
+  "repository": "git@github.com:cetfu/awesome-react-native.git",
+  "author": "Furkan Cetinkaya <furkancetinkaya0746@gmail.com>",
+  "license": "MIT"
+}
