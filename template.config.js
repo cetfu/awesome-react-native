@@ -6,7 +6,7 @@
  */
 
 module.exports = {
-    placeholderName: 'Template',
+    placeholderName: 'template',
     templateDir: './template',
     postInitScript: "./script.js"
 };
