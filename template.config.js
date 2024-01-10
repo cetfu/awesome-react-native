@@ -8,5 +8,4 @@
 module.exports = {
     placeholderName: 'template',
     templateDir: './template',
-    postInitScript: "./script.js"
 };
