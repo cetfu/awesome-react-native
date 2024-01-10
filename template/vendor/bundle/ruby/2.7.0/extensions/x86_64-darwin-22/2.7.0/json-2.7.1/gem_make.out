@@ -1,0 +1,13 @@
+current directory: /Users/miodev/Desktop/github.com/cetfu/awesome-react-native/Template/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+/Users/miodev/.rbenv/versions/2.7.1/bin/ruby -I /Users/miodev/.rbenv/versions/2.7.1/lib/ruby/2.7.0 -r ./siteconf20240110-18870-10yedvf.rb extconf.rb
+creating Makefile
+
+current directory: /Users/miodev/Desktop/github.com/cetfu/awesome-react-native/Template/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/miodev/Desktop/github.com/cetfu/awesome-react-native/Template/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/miodev/Desktop/github.com/cetfu/awesome-react-native/Template/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+make "DESTDIR=" install
